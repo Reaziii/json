@@ -14,5 +14,13 @@
         "semester" : "3rd",
         "cgpa" : 4,
         "email" : "salmankhan@gmail.com"
+    },
+    {
+        "name" : "hello world",
+        "age" : 20,
+        "dep" : "BIO",
+        "semester" : "3rd",
+        "cgpa" : 4,
+        "email" : "salmankhan@gmail.com"
     }
 ]
